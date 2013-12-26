@@ -25,3 +25,12 @@ Deprecated as of python 2.6
 use instead .format()
 4. Code also outputs centimeters and kilos
 
+Ex6
+1. Added comments
+2. I found six
+3. Each time a % sign is used is where a string is put inside another string
+4. '+' for strings is a concatenations
+
+Ex7
+1. Added comments
+
