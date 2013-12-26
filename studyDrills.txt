@@ -1,0 +1,27 @@
+Ex4
+1. Using 4 instead of 4.0 gives 120 instead of 120.0. 
+2. Floating point means that it will give an approximation of a number
+3. comments for variables
+4. One equals is a variable assignment
+5. "_" is a way of writing variables
+6. Used python as a calculator
+
+Ex5
+1. Deleted all of the my_ with a regex replacement
+2. %r
+3. Other formatting characters:
+	%s	string
+	%d	decimal conversion
+	%e	exponential format
+	%E	uppercase E
+	%g	general number; uses $d if it fits otherwise %e
+	%G	E if necessary
+	%o	octal (base 8)
+	%x	hex
+	%X	capital A-F
+	%c	integer to character
+	%%	percent sign
+Deprecated as of python 2.6
+use instead .format()
+4. Code also outputs centimeters and kilos
+
