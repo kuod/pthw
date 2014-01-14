@@ -34,3 +34,7 @@ Ex6
 Ex7
 1. Added comments
 
+Ex11
+1. raw_input() uses the next string input and assigns it to a variable
+2. 
+4. 
